@@ -839,4 +839,4 @@ tarafından görüntülenebilsin,herkese açık paylaşılmadıysa sadece takip�
 Frontend ve ux-ui kısmı uyumlu,modern ve animasyonlar,renklerle modernize edilmiş olsun.
 Veritabanında da ilgili özelliklerde eksiklikler varsa eklensin.
 
-qqq
+qqqbbv
